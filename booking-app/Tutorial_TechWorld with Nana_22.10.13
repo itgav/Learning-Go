@@ -1,0 +1,30 @@
+# Source:
+    # Youtube: TechWorld with Nana
+    # Link: https://www.youtube.com/watch?v=yyUHQIec83I&t=1298s&ab_channel=TechWorldwithNana
+    # Code Repository: https://gitlab.com/nanuchi/go-full-course-youtube
+
+
+# Concepts you'll learn
+    # Data types
+    # Variables & constants
+    # Formatted output
+    # User input
+    # Pointers
+    # Scope rules
+    # Loops
+    # If-else & switch
+    # Functions
+    # Packages
+    # Goroutines
+
+# GO was created by Google in 2007 and open-sourced in 2009 (relatively new)
+# Why go, use cases:
+    # Can do multiple things at once (multi-threading/concurrency) --> Google Drive editing, watching a YouTube video and scrolling
+        # infrastructure changed a lot (cloud computing, microprocessors) --> more scalable & distributed
+    # performance
+# Tries to combine performane of C++ with the simplicity of Python
+# Is a compiled language --> it can compile into a single binary and be run on other platforms
+
+# Discover errors at compile time, NOT run time
+
+
